@@ -1,3 +1,4 @@
+[![CI](https://github.com/Arvuno/mitten/actions/workflows/ci.yml/badge.svg)](https://github.com/Arvuno/mitten/actions)
 # Mitten
 Infinite canvas drawing application.
 
