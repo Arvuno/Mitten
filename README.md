@@ -14,33 +14,39 @@ Grab the builds <https://apos.itch.io/mitten>.
 
 ### Draw
 
-* Left click to draw.
-* Shift + Left click to draw lines.
-* Control + Shift + Left click to change the brush size. Drag left to shrink the size and right to increase it.
-* Alt + Hover to select a different color.
-* Control + Alt + Hover to select a different background color.
-* E to toggle the eraser.
+| Action | Shortcut |
+| --- | --- |
+| Draw | Left click |
+| Draw lines | Shift + Left click |
+| Change brush size (drag left to shrink, right to increase) | Control + Shift + Left click |
+| Select a different color | Alt + Hover |
+| Select a different background color | Control + Alt + Hover |
+| Toggle eraser | E |
 
 ### Camera
 
-* Middle click to drag the camera.
-* Scroll wheel to zoom.
-* Control + Middle click to zoom. Drag up to zoom in and down to zoom out.
-* Dot and Comma to rotate.
-* Hold Space use the hyper zoom. Release to go back to the previous position.
-* Save the current camera position with Control + 1, Control + 2, all the way to Control + 9.
-* Load a saved camera position by pressing 1, 2, ... 9.
-* Slot 0 is reserved for toggling back and forth between the current and previous position. You can also toggle using your mouse's extra buttons if you have them.
+| Action | Shortcut |
+| --- | --- |
+| Drag the camera | Middle click |
+| Zoom | Scroll wheel |
+| Zoom (drag up to zoom in, down to zoom out) | Control + Middle click |
+| Rotate | Dot and Comma |
+| Hyper zoom (hold; release to go back) | Space |
+| Save camera position | Control + 1, Control + 2, ... Control + 9 |
+| Load saved camera position | 1, 2, ... 9 |
+| Toggle between current and previous position | Mouse extra buttons |
 
 ### Misc
 
-* Control + Z to undo.
-* Control + Shift + Z to redo.
-* Control + Backspace to undo everything.
-* Control + Shift + Backspace to redo everything.
-* F11 for the borderless fullscreen mode.
-* Alt + Enter for the fullscreen mode.
-* M to show or hide the mouse cursor.
+| Action | Shortcut |
+| --- | --- |
+| Undo | Control + Z |
+| Redo | Control + Shift + Z |
+| Undo everything | Control + Backspace |
+| Redo everything | Control + Shift + Backspace |
+| Toggle borderless fullscreen | F11 |
+| Toggle fullscreen | Alt + Enter |
+| Toggle mouse cursor visibility | M |
 
 ## Saved files
 
